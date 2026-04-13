@@ -1,0 +1,9 @@
+For Example...
+
+Python Developer Job Description:
+
+Python Flask / Django web development.
+JavaScript frameworks such as Angular / React.js
+Database development using Postgres/MySQL including SQL Alchemy.
+Web server administration - HTTP Proxy server setup using NGINX or other.
+Knowledge of RESTful API integration and development of end points using Python.
