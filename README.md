@@ -212,14 +212,4 @@ The results section displays:
 - **Grant application processing** for research positions
 - **Publication and experience analysis**
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
---- 
-
-**⭐ If you found this project helpful, please consider giving it a star!**
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-resume-screening?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-resume-screening?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/ai-resume-screening?style=social)
