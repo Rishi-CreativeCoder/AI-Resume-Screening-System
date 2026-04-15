@@ -120,7 +120,7 @@ http://localhost:8501
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](Img/dashboard.png)
+![Main Interface](AI-Resume-Screening-System-main/Img)
 *Clean, intuitive interface with job description input and file upload sections*
 
 ---
