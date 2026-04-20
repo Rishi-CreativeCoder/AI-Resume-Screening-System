@@ -1,4 +1,4 @@
-# 🎯 AI Resume Screening & Candidate Ranking 
+# 🎯 AI Resume Screening & Candidate Ranking System
 
 ![Resume Screening](https://img.shields.io/badge/Resume%20Screening-Python%20%7C%20Streamlit%20%7C%20Scikit--learn%20%7C%20PyPDF2-blue)
 ![Version](https://img.shields.io/badge/Version-2.0-green)
