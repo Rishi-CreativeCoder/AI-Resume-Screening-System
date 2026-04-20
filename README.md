@@ -25,14 +25,14 @@ An intelligent AI-powered web application that automates resume screening and ca
 
 ## ✨ Features
 
-🎯 **Smart Resume Ranking** - AI-powered candidate scoring using TF-IDF and Cosine Similarity  
-📄 **PDF Text Extraction** - Automated text extraction from PDF resumes  
-⚙️ **Configurable Thresholds** - Adjustable similarity thresholds for filtering  
-🔍 **Skills Analysis** - Automatic skill detection and correlation analysis  
-📊 **Interactive Visualizations** - Dynamic charts and graphs using Plotly  
-📋 **Comprehensive Reports** - Downloadable CSV reports with detailed analytics  
-🎨 **Modern UI** - Clean, responsive interface built with Streamlit  
-⚡ **Real-time Processing** - Live progress tracking and status updates  
+🎯 **Smart Resume Ranking**          - AI-powered candidate scoring using TF-IDF and Cosine Similarity  
+📄 **PDF Text Extraction**           - Automated text extraction from PDF resumes  
+⚙️ **Configurable Thresholds**       - Adjustable similarity thresholds for filtering  
+🔍 **Skills Analysis**               - Automatic skill detection and correlation analysis  
+📊 **Interactive Visualizations**    - Dynamic charts and graphs using Plotly  
+📋 **Comprehensive Reports**         - Downloadable CSV reports with detailed analytics  
+🎨 **Modern UI**                     - Clean, responsive interface built with Streamlit  
+⚡ **Real-time Processing**          - Live progress tracking and status updates  
 
 ## 🚀 Demo
 
