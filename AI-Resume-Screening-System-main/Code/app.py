@@ -15,7 +15,7 @@ import plotly.graph_objects as go
 
 # Set page configuration INTEGRATION: Function to extract text from PDF
 st.set_page_config(
-    page_title="AI Resume Screening & Categor System", 
+    page_title="AI Resume Screening & System", 
     layout="wide",
     initial_sidebar_state="expanded"
 )
