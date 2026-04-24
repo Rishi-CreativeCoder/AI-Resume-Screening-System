@@ -129,7 +129,6 @@ http://localhost:8501
 ![Ranking Results](Img/Ranking.png)
 *Comprehensive ranking results with similarity scores, word counts, and interactive data table*
 
----
 
 ### Configuration Panel
 The sidebar provides easy access to:
