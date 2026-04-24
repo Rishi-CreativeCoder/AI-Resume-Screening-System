@@ -120,11 +120,6 @@ http://localhost:8501
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](Img/dashboard.png)
-*Clean, intuitive interface with job description input and file upload sections*
-
-
-
 
 ### Configuration Panel
 The sidebar provides easy access to:
