@@ -123,9 +123,7 @@ http://localhost:8501
 ![Main Interface](Img/dashboard.png)
 *Clean, intuitive interface with job description input and file upload sections*
 
----
 
-*Comprehensive ranking results with similarity scores, word counts, and interactive data table*
 
 
 ### Configuration Panel
