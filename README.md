@@ -116,11 +116,6 @@ Open your browser and navigate to:
 ```
 http://localhost:8501
 ```
-
-## 📸 Screenshots
-
-### Main Interface
-
 ### Configuration Panel
 The sidebar provides easy access to:
 - **Similarity threshold slider** for filtering candidates
