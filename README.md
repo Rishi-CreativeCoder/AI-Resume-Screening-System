@@ -17,7 +17,6 @@ An intelligent AI-powered web application that automates resume screening and ca
   - [🛠️ Technology Stack](#️-technology-stack)
   - [📊 How It Works](#-how-it-works)
   - [🔧 Installation](#-installation)
-  - [📸 Screenshots](#-screenshots)
   - [🎨 Key Features](#-key-features)
   - [📈 Results Analysis](#-results-analysis)
   - [🎯 Use Cases](#-use-cases)
