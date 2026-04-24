@@ -125,8 +125,6 @@ http://localhost:8501
 
 ---
 
-### Ranking Results
-![Ranking Results](Img/Ranking.png)
 *Comprehensive ranking results with similarity scores, word counts, and interactive data table*
 
 
