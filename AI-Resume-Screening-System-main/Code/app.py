@@ -173,7 +173,7 @@ def generate_download_link(df, filename="resume_ranking.csv"):
 # Main application
 def main():
     # Header
-    st.markdown("<h1 class='main-header'> AI Resume Screening & Candidate System</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 class='main-header'> AI Resume Screening System</h1>", unsafe_allow_html=True)
     st.markdown("---")
     
     # Sidebar for configuration
